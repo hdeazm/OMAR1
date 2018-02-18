@@ -1,0 +1,5 @@
+'/docentes', 'application.controllers.docentes.index.Index',
+'/docentes/view/(.+)', 'application.controllers.docentes.view.View',
+'/docentes/edit/(.+)', 'application.controllers.docentes.edit.Edit',
+'/docentes/delete/(.+)', 'application.controllers.docentes.delete.Delete',
+'/docentes/insert', 'application.controllers.docentes.insert.Insert',

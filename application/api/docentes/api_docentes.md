@@ -1,0 +1,1 @@
+'/api_docentes/?', 'application.api.docentes.api_docentes.Api_docentes',
